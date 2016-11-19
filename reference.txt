@@ -1,0 +1,34 @@
+[1] Tanaka, M., Sladek, V. & Sladek, J., Regularization techniques applied to boundary element methods, Applied Mechanics Reviews, 47, pp. 457–499, 1994.
+[2] Guiggiani, M. & Casalini, P., Direct computation of Cauchy principal value integrals in advanced boundary elements, Int. J. Numerical Methods in Engineering, 24, pp. 1711–1716, 1987.
+[3] Parreira, P. & Guiggiani, M., On the implementation of the Galerkin approach in the boundary element method, Computers & Structures, 33, pp. 269–279, 1989.
+[4] Guiggiani, M., The evaluation of Cauchy principal value integrals in the boundary element method—A review, Mathematical and Computer Modelling, Special Issue on BIEM/BEM, 15, pp. 175–184, 1991.
+[5] Guiggiani, M., Error indicators for adaptive mesh refinement in the boundary element method—A new approach, Int. J. Numerical Methods in Engineering, 29, pp. 1247–1269, 1990.
+[6] Guiggiani, M. & Lombardi, F., Self-adaptive boundary elements with h-hierarchical shape functions, Advances in Engineering Software, Special Issue on Error Estimates and Adaptive Meshes for FEM/BEM, 15, pp. 269–277, 1992.
+[7] Guiggiani, M. & Gigante, A., A general algorithm for multidimensional Cauchy principal value integrals in the boundary element method, ASME J. of Applied Mechanics, 57, pp. 906–915, 1990.
+[8] Guiggiani, M., Krishnasamy, G., Rizzo, F.J. & Rudolphi, T.J., Hypersingular boundary integral equations: A new approach to their numerical treatment, Proc. IABEM Symposium, Roma, Italy, 1990, in Boundary Integral Methods, eds. L. Morino & R. Piva, Springer-Verlag, Berlin, pp. 211–220, 1991.
+[9] Guiggiani, M., Direct evaluation of hypersingular integrals in 2D BEM, Proc. 7th GAMM Seminar on Numerical Techniques for Boundary Element Methods, Kiel, Germany, 1991, in Notes in Numerical Fluid Mechanics, ed. W. Hackbusch, Vol. 33, Vieweg, Braunschweig, pp. 23–34, 1992.
+[10] Guiggiani, M., Krishnasamy, G., Rudolphi, T.J. & Rizzo, F.J., A general algorithm for the numerical solution of hypersingular boundary integral equations, ASME J. of Applied Mechanics, 59, pp. 604–614, 1992.
+[11] Guiggiani, M., Letter to the Editor, Int. J. Numerical Methods in Engineering, 26, pp. 1684–1685, 1988.
+[12] Guiggiani, M., Computing principal value integrals in 3D BEM for time-harmonic elastodynamics—A direct approach, Comm. in Applied Numerical Methods, 8, pp. 141–149, 1992.
+[13] Guiggiani, M., Hypersingular formulation for boundary stress evaluation, Engineering Analysis with Boundary Elements, Special Issue on Integration Techniques, 55, pp. 169–179, 1994.
+[14] Guiggiani, M., Hypersingular boundary integral equations have an additional free term, Computational Mechanics, 16, pp. 245–248, 1995.
+[15] Mantiˇ c, V. & Par` ıs, F., Existence and evaluation of the two free terms in the hypersingular boundary integral equation of potential theory, Engineering Analysis with Boundary Elements, 16, 253–260, 1995.
+[16] Young, A., A single-domain boundary element method for 3D elastostatic crack analysis using continuous elements, Int. J. Numerical Methods in Engineering, 39, pp. 1265–1293, 1996.
+[17] Guiggiani, M., Sensitivity analysis for boundary element error estimation and mesh refinement, Int. J. Numerical Methods in Engineering, 39, pp. 2907–2920, 1996.
+[18] Bonnet, M. & Guiggiani, M., Tangential derivatives of singular boundary integrals with respect to the position of collocation points, Int. J. Numerical Methods in Engineering, in print, 1997.
+[19] Guiggiani, M., Continuity requirements for density functions in boundary integral equations are not strictly necessary, Proc. IABEM’95, Hawaii, 1995, in Computational Mechanics’95, eds. S.N. Atluri, G. Yagawa & T.A. Cruse, Springer-Verlag, Berlin, pp. 2776–2781, 1995.
+[20] Bonnet, M., Equations int´ egrales et ´ el´ ements de fronti` ere, CNRS Editions/Eyolles, Paris, France, 1995.
+[21] Mukherjee, S., On the corner tensor in three-dimensional linear elasticity, Engineering Analysis with Boundary Elements, 18, pp. 327–331, 1996.
+[22] Farin, G., Curves and Surfaces for Computer Aided Geometric Design, 2nd edn, Academic Press, Boston, 1992.
+[23] Bonnet, M., A note on the Laurent expansion of hypersingular kernels in 2D, private communication, 1996.
+[24] Almeida Pereira, O.J.B. & Parreira, P., Direct evaluation of Cauchy-principal-value integrals in boundary elements for infinite and semi-infinite three-dimensional domains, Engineering Analysis with Boundary Elements, 13, 313–320, 1994.
+[25] Qiu, Z.H., Wrobel, L.C. & Power, H., Boundary element approach to mass and charge transport in electrochemical cells, Engineering Analysis with Boundary Elements, 15, 299–312, 1995.
+[26] Schanz, M. & Antes, H., Application of ‘Operational Quadrature Methods’ in time domain boundary element methods, Meccanica, 32, pp. 179–186, 1997.
+[27] Mi, Y. & Aliabadi, M.H., Dual boundary element method for three-dimensional fracture mechanics analysis, Engineering Analysis with Boundary Elements, 10, 161–171, 1992.
+[28] Rˆ ego Silva, J.J., Power, H. & Wrobel, L.C., A hypersingular integral equation formulation for Stokes’ flow in ducts, Engineering Analysis with Boundary Elements, 12 , 185–193, 1993.
+[29] Huber, O., Lang, A. & Kuhn, G., Evaluation of the stress tensor in 3D elastostatics by direct solving of hypersingular integrals, Computational Mechanics, 12, 39–50, 1993.
+[30] Lie, S.T., Lan, S. & Bian, C.M., Analysis of load and non-load-carrying fillet welds using HBIEs, Engineering Analysis with Boundary Elements, 18, 163–173, 1996.
+[31] Kieser, R., Schwab, C. & Wendland, W.L., Numerical evaluation of singular and finite-part integrals on curved surfaces using symbolic manipulation, Computing, 49, 279–301, 1992.
+[32] Huber, O., Dallner, R., Partheymuller, ¨ P. & Kuhn, G., Evaluation of the stress tensor in 3D elastoplasticity by direct solving of hypersingular integrals, Int. J. Numerical Methods in Engineering, 39, pp. 2555–2573, 1996.
+[33] Gallego, R. & Dom` ınguez, J., Hypersingular BEM for transient elastodynamics, Int. J. Numerical Methods in Engineering, 39, pp. 1681–1705, 1996.
+[34] Bonnet, M., Differentiability of strongly singular and hypersingular boundary integral formulations with respect to boundary perturbations, Computational Mechanics, 19, pp. 240–246, 1997.
